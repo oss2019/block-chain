@@ -10,6 +10,7 @@ The aim of this project is to gain an deeper understanding about Blockchain and 
 ### What is my role as a contributor?
 - Understand how to write a chaincode in golang. You can always ask doubts on the gitter channel and we will try to help you out with it(if we know the answer xP).
 - Update the basic chaincode skeleton with important functionalities.
+- *** The link to the gitter channel and the code skeleton will be added soon ***
 ### What is the role of the maintainers?
 - Provide answers to the queries asked.
 - Help all the members to gain a deeper understanding.
