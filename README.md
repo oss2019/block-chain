@@ -6,17 +6,18 @@ Get started with the latest emerging technology, in this crypto age.
 - The implications of Blockchain goes far and wide in the field of security.
 - Hyperledger is an open source project initiated by Linux Foundation which provides us a platform to build such a network.
 ### What is this project about?
-The aim of this project is to gain an deeper understanding about Blockchain and Hyperledger Fabric by the end of summer. We will do so by building a small network which enables you to do Know Your Custumer(KYC) online. 
+The aim of this project is to gain an deeper understanding about Blockchain and Hyperledger Fabric by the end of summer. We will do so by building a small network which enables you to do Know Your Customer(KYC) online. 
 ### What is my role as a contributor?
 - Understand how to write a chaincode in golang. You can always ask doubts on the gitter channel and we will try to help you out with it(if we know the answer xP).
 - Update the basic chaincode skeleton with important functionalities.
-- *** The link to the gitter channel and the code skeleton will be added soon ***
+### How do I get started?
+All the interested students can can ping us at https://gitter.im/oss2019/community
 ### What is the role of the maintainers?
 - Provide answers to the queries asked.
 - Help all the members to gain a deeper understanding.
 - Check the authenticity and functionality of all the PRs.
 ### How to contribute?
-- Open an issue regarding the the new functionality to be added or assign yourself an unassigned problem.
+- Open an issue regarding the new functionality to be added or assign yourself an unassigned problem.
 - Any known issues like bugs in the code will be issued to one contributor and on failing to solve it within a week will be issued to other interested contributors.
 - After solving the problem or adding the functionality open a PR which on verification by the maintainers will be merged to the repo.
 ### Useful resources to understand hyperledger fabric
