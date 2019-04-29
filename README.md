@@ -1,4 +1,4 @@
-# BlockChain
+# block-chain
 Get started with the latest emerging technology, in this crypto age.
 ### What is Blockchain?
 - Blockchain is a system in which a record of any transaction is stored across various nodes/peers in the form of ledgers.
