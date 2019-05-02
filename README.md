@@ -6,12 +6,14 @@ Get started with the latest emerging technology, in this crypto age.
 - The implications of Blockchain goes far and wide in the field of security.
 - Hyperledger is an open source project initiated by Linux Foundation which provides us a platform to build such a network.
 ### What is this project about?
-The aim of this project is to gain an deeper understanding about Blockchain and Hyperledger Fabric by the end of summer. We will do so by building a small network which enables you to do Know Your Customer(KYC) online. 
+The aim of this project is to gain an deeper understanding about Blockchain and Hyperledger Fabric by the end of summer. We will do so by building a small network which enables you to do Know Your Customer(KYC) online.  
+KYC involves a business to verify sensitive details of its prospective customer. This process is almost always done offline, person to person to ensure absolute security. We can ensure unshakeable security using blockchain. Built on the hyperledger fabric framework, this applicaton ensures the permissions for access granted only to the intended banks. 
 ### What is my role as a contributor?
 - Understand how to write a chaincode in golang. You can always ask doubts on the gitter channel and we will try to help you out with it(if we know the answer xP).
 - Update the basic chaincode skeleton with important functionalities.
-### How do I get started?
-All the interested students can can ping us at https://gitter.im/oss2019/community
+### How do I get started?	
+Please [install](https://github.com/oss2019/block-chain/blob/master/INSTALL.md) all prerequisites on the platform(s) on which you’ll be developing blockchain applications and/or operating Hyperledger Fabric.
+All the interested students can can ping us at [Community room](https://gitter.im/oss2019/community) or [Blockchain Room](https://gitter.im/oss2019/block-chain) at gitter
 ### What is the role of the maintainers?
 - Provide answers to the queries asked.
 - Help all the members to gain a deeper understanding.
