@@ -12,7 +12,7 @@ KYC involves a business to verify sensitive details of its prospective customer.
 - Understand how to write a chaincode in golang. You can always ask doubts on the gitter channel and we will try to help you out with it(if we know the answer xP).
 - Update the basic chaincode skeleton with important functionalities.
 ### How do I get started?	
-Please [install](https://github.com/oss2019/block-chain/blob/master/INSTALL.md) all prerequisites on the platform(s) on which you’ll be developing blockchain applications and/or operating Hyperledger Fabric.
+Please [install](https://github.com/oss2019/block-chain/blob/master/INSTALLATION.md) all prerequisites on the platform(s) on which you’ll be developing blockchain applications and/or operating Hyperledger Fabric.
 All the interested students can can ping us at [Community room](https://gitter.im/oss2019/community) or [Blockchain Room](https://gitter.im/oss2019/block-chain) at gitter
 ### What is the role of the maintainers?
 - Provide answers to the queries asked.
