@@ -1,5 +1,6 @@
 # block-chain
 Get started with the latest emerging technology, in this crypto age.
+Checkout the detailed timeline of the project in the timeline.md file
 ### What is Blockchain?
 - Blockchain is a system in which a record of any transaction is stored across various nodes/peers in the form of ledgers.
 - All the transactions which happen on the network is added to every peer's individual ledger.
