@@ -28,8 +28,5 @@
 - Deploy containers on different servers to minimalize single node failures.
 - We encourage you to do so by either using docker swarms or kubernetes.
 
-### ** Week 9:
-- We are in talks with DigitalOcean for sponsorship and if everything goes well we will be provided with servers for deployment.
-- This week will be utilized to deploy the environment on their servers.
 
 
